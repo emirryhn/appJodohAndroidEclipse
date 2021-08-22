@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/activity_data_calon.xml" value="0.184375" />
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/activity_pilih_calon.xml" value="0.22" />
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/data_jodoh_card.xml" value="0.184375" />
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/pilih_jodoh_card.xml" value="0.184375" />
         <entry key="..\:/Users/emir1/AndroidStudioProjects_JCoding/JodohApp/app/src/main/res/layout/register.xml" value="0.22" />
       </map>
