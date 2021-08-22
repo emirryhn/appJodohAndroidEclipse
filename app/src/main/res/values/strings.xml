@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JodohApp</string>
+    <string-array name="genderItems">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+</resources>
